@@ -1,0 +1,9 @@
+twitchio>=2.8.0
+playwright>=1.40.0
+python-dotenv>=1.0.0
+loguru>=0.7.0
+aiohttp>=3.8.5
+beautifulsoup4>=4.12.2
+requests>=2.31.0
+opencv-python>=4.8.0
+Pillow>=10.0.0 
